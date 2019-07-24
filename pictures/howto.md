@@ -8,4 +8,4 @@
 
 随便输入一个文件名，并在下面文件内容中输入点内容，最后按提交，文件夹就建立了。
 
-Wordpress/ **pictures** /howto.md
+> eg: Wordpress/ **pictures** /howto.md
